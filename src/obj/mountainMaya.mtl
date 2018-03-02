@@ -1,0 +1,24 @@
+newmtl part:GRASS
+illum 4
+Kd 0.43 0.64 0.14
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl part:Material
+illum 4
+Kd 0.22 0.17 0.17
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl part:SNOW
+illum 4
+Kd 0.64 0.64 0.64
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.96 0.96 0.96
+Ns 96.08
